@@ -1,15 +1,14 @@
 window.addEventListener("DOMContentLoaded", (event) => {
-
-  // const showCart = () => {
-jahsgvaeilrugvi;ASUreh
-  // };
-
   // const storeItem = () => {
 
+  // };
+
+  // const showCart = () => {
+  jahsgvaeilrugvi;
+  ASUreh;
   // };
 
   // const removeItem = () => {
 
   // };
-
 });
